@@ -18,8 +18,7 @@ How to use Streamlit to design the fount-end UI
 
 What is data parsing?
 
-
-![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd3fecf0-6c2f-4b88-9242-100d1eb6bb7a/Untitled.png)
+![image](https://user-images.githubusercontent.com/53972816/208387033-c9414bd9-3a35-4ae5-9148-d4f5ff757a6c.png)
 
 
 ## Procedure (Machine Learning)
@@ -42,7 +41,7 @@ There are 3 moduels:
 4. Create the predict route (Take the input data and convert it to an array so that it can be served by the model) 
 5. Run the Unicorn (And specify the host and port)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0150c221-679b-41d3-aa92-58d607eac051/Untitled.png)
+![image](https://user-images.githubusercontent.com/53972816/208386964-7cda6473-dcac-4017-834c-09d673a47082.png)
 
 
 
