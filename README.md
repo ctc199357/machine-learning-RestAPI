@@ -67,4 +67,4 @@ streamlit run ui/car_price.py
 ```
 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c7292a28-a26b-4416-b144-fcb8f53b53bc/Untitled.png)
+![image](https://user-images.githubusercontent.com/53972816/208386880-a7010d63-12da-4cb9-8e0a-9d693301c1ab.png)
