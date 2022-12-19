@@ -19,7 +19,7 @@ How to use Streamlit to design the fount-end UI
 What is data parsing?
 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd3fecf0-6c2f-4b88-9242-100d1eb6bb7a/Untitled.png)
+![alt text](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd3fecf0-6c2f-4b88-9242-100d1eb6bb7a/Untitled.png)
 
 
 ## Procedure (Machine Learning)
